@@ -9,7 +9,7 @@ The main goal of the game is to eat all the apples.
 The more apples there are on the field - the faster they appear.
 If their number becomes greater than the critical value - you lose.
 
-Also I implemented field area adjustment, pause mode, and "game over".
+Also I implemented field area adjustment, pause mode, "new game" and "game over".
 
 I've finished it a long time ago. Today I would change a few things in it, but I've decided to leave it as it is.
 
