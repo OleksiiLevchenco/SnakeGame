@@ -1,4 +1,4 @@
-# SnkeGame
+# SnakeGame
 
 Once there was a snake, and it got hungry. You can easily guess what happend next ;)
 
